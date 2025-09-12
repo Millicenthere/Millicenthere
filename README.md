@@ -1,5 +1,5 @@
 <div id="" align="center">
-  <img src="https://raw.githubusercontent.com/joesantosgarcia/joesantosgarcia/main/assets/joebanner.jpg" width="100%"/>
+  <img src="https://github.com/Millicenthere/Millicenthere/blob/main/assets/Banner%20read.me.jpg" width="100%"/>
 </div>
 <h1 align="center">Hi 👋, I'm Millicent Escobar</h1>
 <h3 align="center">HTML CSS developer from Houston, TX</h3>
