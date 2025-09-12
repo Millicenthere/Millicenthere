@@ -98,7 +98,7 @@
 						</a>
                     </p>
                     <p><strong>HTML, CSS and MJML</strong></p>
-		    <p>Responsive promotional email for Plant Fitness using HTML and MJML</p>
+		    <p>Responsive promotional email for Planet Fitness using HTML and MJML</p>
                 </div>
             </td>
             <td width="50%">
