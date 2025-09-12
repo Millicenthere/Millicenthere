@@ -130,7 +130,7 @@
 
 
 <!-- SOCIALS -->
-
+<!--
 <h2 align="center">Contact Me</h2>
 <p align="center">
 	&nbsp&nbsp&nbsp
@@ -142,7 +142,7 @@
 
 <hr>
 
-
+-->
 <!-- STATS -->
 <div align="center" margin="100px 0 0 0">
 
