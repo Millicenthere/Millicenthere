@@ -2,8 +2,8 @@
   <img src="https://github.com/Millicenthere/Millicenthere/blob/main/assets/Banner%20read.me.jpg" width="100%"/>
 </div>
 <h1 align="center">Hi 👋, I'm Millicent Escobar</h1>
-<h3 align="center">HTML CSS developer from Houston, TX</h3>
-<h4 align="center">I'm a dedicated web producer and coder specializing in HTML, CSS, and CMS platforms like WordPress. I thrive on building dynamic, user-focused websites that blend seamless functionality with stunning design. My passion for clean code and innovative web solutions drives me to create digital experiences that leave a lasting impact. Outside of coding, I cherish moments with my daughter, whose curiosity inspires me to keep exploring and growing in my craft. Ready to bring your vision to life? Let's connect! </h4>
+<h3 align="center">Email Marketing Specialist from Houston, TX</h3>
+<h4 align="center">I’m a dedicated Email Marketing Specialist with a passion for crafting visually appealing and highly effective email campaigns. With a strong foundation in HTML, CSS, and responsive design, I create emails that not only engage audiences but also perform seamlessly across devices. My goal is to blend creativity with technical precision to drive results for businesses. Outside of work, I’m a proud parent to my daughter, who inspires me to bring creativity and care into everything I do. Whether it’s designing pixel-perfect emails or spending quality time with my family, I thrive on making meaningful connections.</h4>
 
 <hr>
 
