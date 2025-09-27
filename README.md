@@ -47,7 +47,7 @@
 					<br>
 					<br>
 					<p>
-						<a href="https://github.com/Millicenthere/CPA-HTML-Email-Starting-files" target="_blank">
+						<a href="https://github.com/Millicenthere/email-course-starting-files" target="_blank">
 							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
 						</a>  
 						<a href="https://millicenthere.github.io/email-course-starting-files/" target="_blank">
