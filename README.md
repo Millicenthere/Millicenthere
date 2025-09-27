@@ -93,12 +93,12 @@
                         <a href="https://github.com/Millicenthere/HTML-MJML-Promotional-Email-Planet-Fitness" target="_blank">
 							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
 						</a>  
-						<a href="https://loquacious-lily-ad32de.netlify.app/" target="_blank">
+						<a href="https://millicenthere.github.io/HTML-MJML-Promotional-Email-Planet-Fitness/" target="_blank">
 							<img src="https://img.shields.io/badge/Live-lightgrey?style=for-the-badge&color=0892d0"/>
 						</a>
                     </p>
                     <p><strong>HTML, CSS and MJML</strong></p>
-		    <p>Responsive promotional email for Planet Fitness using HTML and MJML</p>
+		    <p>Responsive promotional email for Planet Fitness using HTML, CSS and MJML</p>
                 </div>
             </td>
             <td width="50%">
