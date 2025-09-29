@@ -84,7 +84,7 @@
             <td width="50%">
                 <h3 align="center">HTML Promotional Email for Planet Fitness</h3>
                 <div align="center" >  
-                    <a href='https://codingphase.com' target="_blank">
+                    <a href='https://millicenthere.github.io/HTML-MJML-Promotional-Email-Planet-Fitness/' target="_blank">
                         <img src="https://github.com/Millicenthere/Millicenthere/blob/main/assets/PF%20TN%20.jpg" alt="project 3" height="100%" />
                     </a>
                     <br>
@@ -102,23 +102,23 @@
                 </div>
             </td>
             <td width="50%">
-                <h3 align="center">Project 4</h3>
+                <h3 align="center">Roku Promotional HTML Email</h3>
                 <div align="center">  
                     <a href='https://img.shields.io/badge/Live-lightgrey?style=for-the-badge&color=0892d0' target="_blank">
-                        <img src="https://raw.githubusercontent.com/joesantosgarcia/joesantosgarcia/main/assets/projectthumb.jpg" alt="project 4" height="100%" />
+                        <img src="https://github.com/Millicenthere/Millicenthere/blob/main/assets/Roku-ss.png?raw=true" alt="project 4" height="100%" />
                     </a>
                     <br>
                     <br>
                     <p>
-                        <a href="https://codingphase.com" target="_blank">
+                        <a href="https://github.com/Millicenthere/HTML-Promotional-email--Roku" target="_blank">
 							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
 						</a>  
-						<a href="https://codingphase.com" target="_blank">
+						<a href="https://millicenthere.github.io/HTML-Promotional-email--Roku/" target="_blank">
 							<img src="https://img.shields.io/badge/Live-lightgrey?style=for-the-badge&color=0892d0"/>
 						</a>	
                     </p>
-                    <p><strong>HTML, CSS, Javascript</strong></p>
-		    <p>Description goes here</p>
+                    <p><strong>HTML, CSS</strong></p>
+		    <p>A fluid, responsive HTML/CSS email template crafted inspired by Roku's clean, modern aesthetic. Built with a table-based layout and inline CSS for compatibility across 60+ email clients (e.g., Gmail, Outlook, Apple Mail), it uses percentage-based widths (100% with a 600px max-width) for seamless scaling on mobile and desktop.</p>
                 </div>	
             </td>
         </tr>
